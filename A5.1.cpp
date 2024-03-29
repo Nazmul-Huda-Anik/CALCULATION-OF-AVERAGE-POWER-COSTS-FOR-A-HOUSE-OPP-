@@ -1,10 +1,3 @@
-/***********************************************************************
-Matr.-Nr: 3115997
-Nachname/Surname:  Anik
-Vorname/Given name: Nazmul Huda
-Uni-Email: nazmul.anik@stud.uni-due.de
-Studiengang/Course of studescription: Softwar Engineering(ISE)
-***********************************************************************/
 #include <iostream>
 #include <string>
 #include <iomanip>
